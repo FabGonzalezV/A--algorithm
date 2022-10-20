@@ -1,0 +1,43 @@
+*{padding: 0%;margin: 0%;}
+
+body{background: rgb(5, 5, 5);}
+
+.lienzo{
+        
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+}
+button{
+         background-color: rgb(244, 208, 63);
+        width: 200px;
+        height: 40px;
+        font-size: 40px;
+        font-weight: 100;
+        font-style: italic;
+        color: black;
+        border: 0ch;
+        
+
+        }
+        .botones{
+                position: fixed;
+        left: 75%;
+        top: 40%;
+        transform: translate(-50%,-50%);
+        }
+
+        .etiqueta{
+               
+                
+                font-size: 40px;
+                font-weight: 100;
+                font-style:  normal;
+                color: black;
+                position: fixed;
+                left: 50%;
+                top: 10%;
+                transform: translate(-50%,-50%);
+                
+        }
